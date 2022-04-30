@@ -10,7 +10,7 @@ async def on_ready():
 
 
 cogs_list = [
-    'ping', #here you can register your commands from your python files
+    'ping', #here you can register your commands from your cogs folder
 
 ]
 
